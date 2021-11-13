@@ -140,6 +140,8 @@ Clients:: Ethereum has several interoperable implementations of the client softw
 [[references]]
 ==== Further Reading
 
+===== TODOS : Add source code and summarize all links
+
 The following references provide additional information on the technologies mentioned here:
 
 * The Ethereum Yellow Paper:
