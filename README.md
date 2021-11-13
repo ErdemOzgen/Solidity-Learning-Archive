@@ -37,6 +37,7 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 ## Solidity by Example
 * [Source Code](https://github.com/ErdemOzgen/)
 * Notes About Book
+* [Original link](https://solidity-by-example.org/)
 
 ## Mastering Blockchain Programing with Solidity
 * [Source Code](https://github.com/ErdemOzgen/)
