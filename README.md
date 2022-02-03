@@ -14,10 +14,10 @@ Notes about Ethereum, Smart contracts and DApps
 # Docs
 <img src="img/eth.png" width="200"><br>
 Ethereum documentation<br>
-[Docs Link](https://ethereum.org/en/developers/docs/)
+* [Docs Link](https://ethereum.org/en/developers/docs/)
+* [Solidity By Example](https://solidity-by-example.org/)
+* [Solidity Doc](https://docs.soliditylang.org/en/v0.8.11/)
 <br>
-<img src="img/ss.png" width="205">
-[Solidity By Example](https://solidity-by-example.org/)
 
 
 # Video
