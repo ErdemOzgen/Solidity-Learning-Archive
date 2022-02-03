@@ -5,7 +5,7 @@
 * [Primitives](primitives.sol)
 * [Variables](variables.sol)
 * [Constants](constants.sol)
-* []()
+* [Immutable](immutable.sol)
 * []()
 * []()
 * []()

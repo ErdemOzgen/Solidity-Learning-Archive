@@ -11,11 +11,5 @@ contract Immutable {
         MY_UINT = _myUint;
     }
 }
-
-
-
-
-
-
 //Constructor only called once
 //https://stackoverflow.com/a/52140605/6946237
