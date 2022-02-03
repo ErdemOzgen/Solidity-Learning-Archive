@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+// pure vs view ==> https://stackoverflow.com/a/61736105/6946237
 contract IfElse {
     function foo(uint x) public pure returns (uint) {
         if (x < 10) {
