@@ -3,11 +3,11 @@ Notes about Ethereum, Smart contracts and DApps
 
 <img src="img/chain.jpeg">
 
-# Books and Resource
+# Book
 <div>
 <img src="img/msEth.jpg" width="179">
 </div>
-
+### For starting point I strongly recomended this book.
 
 # Docs
 <img src="img/eth.png" width="200"><br>
