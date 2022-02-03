@@ -1,4 +1,4 @@
-# Ethereum-Learning-Archive
+# Solidity-Learning-Archive
 Notes about Ethereum, Smart contracts and DApps
 
 <img src="img/chain.jpeg">
@@ -7,7 +7,9 @@ Notes about Ethereum, Smart contracts and DApps
 <div>
 <img src="img/msEth.jpg" width="179">
 </div>
-### For starting point I strongly recomended this book.
+
+###  I would highly recommend this book for new commers.
+[Mastering ETH Source Code](./Books/MasETH/README.md)
 
 # Docs
 <img src="img/eth.png" width="200"><br>
