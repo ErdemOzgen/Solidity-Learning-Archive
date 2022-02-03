@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+//Similar to how one dollar is equal to 100 cent, one ether is equal to 1018 wei.
 contract EtherUnits {
     uint public oneWei = 1 wei;
     // 1 wei is equal to 1
