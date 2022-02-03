@@ -1,7 +1,7 @@
 # Ethereum-Learning-Archive
 Notes about Ethereum, Smart contracts and DApps
 
-
+<img src="img/chain.jpeg">
 
 # Books and Resource
 <div>
