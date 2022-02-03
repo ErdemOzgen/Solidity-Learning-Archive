@@ -6,8 +6,6 @@ Notes about Ethereum, Smart contracts and DApps
 # Books and Resource
 <div>
 <img src="img/msEth.jpg" width="179">
-<img src="img/int.jpg" width="159">
-<img src="img/BGame.jpg" width="160">
 </div>
 
 
@@ -32,16 +30,12 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 * [Source Code](./Books/MasETH/README.md)
 * Notes About Book
   
-## Introducing Ethereum and Solidity
-* [Source Code](https://github.com/ErdemOzgen/)
-* Notes About Book
-
 ## Solidity by Example
 * [Source Code](./Books/SolidityExample)
 * Notes About Book
 * [Original link](https://solidity-by-example.org/)
 
-## Building games with Ethereum smart contracts
+## Solidity Archive
 * [Source Code](https://github.com/ErdemOzgen/)
 * Notes About Book
 
