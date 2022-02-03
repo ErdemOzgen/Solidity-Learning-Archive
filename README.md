@@ -29,7 +29,7 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 # Table of Contents
 
 ## Mastering Ethereum
-* [Source Code](https://github.com/ErdemOzgen/)
+* [Source Code](./Books/MasETH/README.md)
 * Notes About Book
   
 ## Introducing Ethereum and Solidity
@@ -37,11 +37,11 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 * Notes About Book
 
 ## Solidity by Example
-* [Source Code](https://github.com/ErdemOzgen/)
+* [Source Code](./Books/SolidityExample)
 * Notes About Book
 * [Original link](https://solidity-by-example.org/)
 
-## Mastering Blockchain Programing with Solidity
+## Building games with Ethereum smart contracts
 * [Source Code](https://github.com/ErdemOzgen/)
 * Notes About Book
 
