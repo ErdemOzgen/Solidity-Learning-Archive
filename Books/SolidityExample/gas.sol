@@ -32,3 +32,4 @@ contract Gas {
     }
 }
 //https://www.youtube.com/watch?v=oTS9uxU6cAM&ab_channel=SmartContractProgrammer
+//https://medium.com/@kaymonft/optimizing-nft-smart-contracts-to-reduce-gas-usage-7f4e819eb49d
