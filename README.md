@@ -8,7 +8,7 @@ Notes about Ethereum, Smart contracts and DApps
 <img src="img/msEth.jpg" width="179">
 <img src="img/int.jpg" width="159">
 <img src="img/ss.png" width="205">
-<img src="img/smaller.png" width="200">
+<img src="img/BGame.jpg" width="200">
 </div>
 
 
