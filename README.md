@@ -41,7 +41,13 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 * [Source Code](https://github.com/ErdemOzgen/)
 * Notes About Book
 
+## Solidity Security
+* [Source Code](https://github.com/ErdemOzgen/)
+* Notes About Book
 
+## Solidity Optimization
+* [Source Code](https://github.com/ErdemOzgen/)
+* Notes About Book
 
 # License
 
