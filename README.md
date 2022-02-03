@@ -7,7 +7,6 @@ Notes about Ethereum, Smart contracts and DApps
 <div>
 <img src="img/msEth.jpg" width="179">
 <img src="img/int.jpg" width="159">
-<img src="img/ss.png" width="205">
 <img src="img/BGame.jpg" width="160">
 </div>
 
@@ -16,6 +15,9 @@ Notes about Ethereum, Smart contracts and DApps
 <img src="img/eth.png" width="200"><br>
 Ethereum documentation<br>
 [Docs Link](https://ethereum.org/en/developers/docs/)
+<br>
+<img src="img/ss.png" width="205">
+[Solidity By Example](https://solidity-by-example.org/)
 
 
 # Video
