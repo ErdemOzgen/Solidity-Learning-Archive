@@ -17,7 +17,7 @@
 * [Enum](enum.sol)
 * [Struct](struct.sol)
 * [Data Location](DataLocation.sol)
-* [Function]()
+* [Function](function.sol)
 * [View vs Pure](ViewAndPure.sol)
 * [Error](Error.sol)
 * [Function Modifier](functionModifier.sol)
