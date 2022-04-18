@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+// Function visibility:
+// https://bitsofco.de/solidity-function-visibility-explained/
 contract Function {
     // Functions can return multiple values.
     function returnMany()
