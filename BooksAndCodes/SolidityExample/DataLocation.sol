@@ -4,7 +4,7 @@ pragma solidity ^0.8.3;
 //storage - variable is a state variable (store on blockchain)
 //memory - variable is in memory and it exists while a function is being called
 //calldata - special data location that contains function arguments, only available for external functions
-
+//https://ethereum.stackexchange.com/a/74443
 contract DataLocations {
     uint256[] public arr;
     mapping(uint256 => address) map;

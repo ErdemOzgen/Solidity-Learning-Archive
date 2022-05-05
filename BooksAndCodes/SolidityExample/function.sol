@@ -65,9 +65,9 @@ contract Function {
 
         return (i, b, j, x, y);
     }
-
+//++++++++++++++++++++++++++++++++++++++++++++++++
     // Cannot use map for neither input nor output
-
+//++++++++++++++++++++++++++++++++++++++++++++++++
     // Can use array for input
     function arrayInput(uint256[] memory _arr) public {}
 
