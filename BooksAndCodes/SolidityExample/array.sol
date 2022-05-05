@@ -34,7 +34,7 @@ The types where the so-called storage location is important are structs and arra
 
 
  */
-memory cannot be used at the contract level. Only in methods.
+//memory cannot be used at the contract level. Only in methods.
     function push(uint i) public {
         // Append to array
         // This will increase the array length by 1.
