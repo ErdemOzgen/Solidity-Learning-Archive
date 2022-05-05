@@ -1,6 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
+/************************************************************************************************
+Getter functions can be declared view or pure.
 
+View function declares that no state will be changed.
+
+Pure function declares that no state variable will be changed or read.
+
+ */
 contract ViewAndPure {
     uint256 public x = 1;
 

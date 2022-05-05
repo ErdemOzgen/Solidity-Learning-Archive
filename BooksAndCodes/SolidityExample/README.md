@@ -20,6 +20,7 @@
 * [Function](function.sol)
 * [View vs Pure](ViewAndPure.sol)
 * [Error](Error.sol)
+* [Error2](Error2.sol)
 * [Function Modifier](functionModifier.sol)
 * [Constractor](constractor.sol)
 * [Inheritance](inheritance.sol)
