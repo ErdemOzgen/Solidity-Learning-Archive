@@ -22,6 +22,7 @@
 * [Error](Error.sol)
 * [Error2](Error2.sol)
 * [Function Modifier](functionModifier.sol)
+* [Events](events.sol)
 * [Constractor](constractor.sol)
 * [Inheritance](inheritance.sol)
 * [Shadowing](ShadowingInheritedStateVar.sol)
