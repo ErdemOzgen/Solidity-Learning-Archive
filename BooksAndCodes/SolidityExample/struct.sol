@@ -39,7 +39,7 @@ contract Todos {
 
     // update text
     function update(uint256 _index, string memory _text) public {
-        Todo storage todo = todos[_index];
+        Todo storage todo = todos[_index]; // This one is important we need to use storage in here
         todo.text = _text;
     }
 

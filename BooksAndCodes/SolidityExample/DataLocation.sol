@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+//https://www.youtube.com/watch?v=wOCIhzAuhgs
 //storage - variable is a state variable (store on blockchain)
 //memory - variable is in memory and it exists while a function is being called
 //calldata - special data location that contains function arguments, only available for external functions
