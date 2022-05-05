@@ -5,7 +5,7 @@ Events allow logging to the Ethereum blockchain. Some use cases for events are:
 
 Listening for events and updating user interface
 A cheap form of storage
-
+https://youtu.be/nopo9KwwRg4?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p
 */
 contract Event {
     // Event declaration
