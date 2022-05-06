@@ -46,5 +46,6 @@ contract Payable {
         // This is the current recommended method to use.
         (bool sent, bytes memory data) = _to.call{value: msg.value}("");
         require(sent, "Failed to send Ether");
+        // What is msg ==> https://medium.com/upstate-interactive/what-you-need-to-know-about-msg-global-variables-in-solidity-566f1e83cc69
     }
 }
