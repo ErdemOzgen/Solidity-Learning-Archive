@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+//https://www.tutorialspoint.com/solidity/solidity_interfaces.htm
+//https://medium.com/coinmonks/solidity-tutorial-all-about-interfaces-f547d2869499
 contract Counter {
     uint256 public count;
 
