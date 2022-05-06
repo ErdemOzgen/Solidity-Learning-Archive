@@ -35,7 +35,7 @@
 * [Fallback](fallback.sol)
 * [Call](call.sol)
 * [DelegateCall](delegatecall.sol)
-* []()
+* [Function Selector](functionselector.sol)
 * []()
 * []()
 * []()
