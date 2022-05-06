@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.3;
+//https://youtu.be/vYwYe-Gv_XI
+pragma solidity ^0.8.13;
 
 /* Signature Verification
 
@@ -19,7 +20,7 @@ contract VerifySignature {
     /* 1. Unlock MetaMask account
     ethereum.enable()
     */
-
+  
     /* 2. Get message hash to sign
     getMessageHash(
         0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C,
@@ -32,9 +33,9 @@ contract VerifySignature {
     */
     function getMessageHash(
         address _to,
-        uint256 _amount,
+        uint _amount,
         string memory _message,
-        uint256 _nonce
+        uint _nonce
     ) public pure returns (bytes32) {
         return keccak256(abi.encodePacked(_to, _amount, _message, _nonce));
     }
@@ -61,10 +62,7 @@ contract VerifySignature {
         */
         return
             keccak256(
-                abi.encodePacked(
-                    "\x19Ethereum Signed Message:\n32",
-                    _messageHash
-                )
+                abi.encodePacked("\x19Ethereum Signed Message:\n32", _messageHash)
             );
     }
 
@@ -80,9 +78,9 @@ contract VerifySignature {
     function verify(
         address _signer,
         address _to,
-        uint256 _amount,
+        uint _amount,
         string memory _message,
-        uint256 _nonce,
+        uint _nonce,
         bytes memory signature
     ) public pure returns (bool) {
         bytes32 messageHash = getMessageHash(_to, _amount, _message, _nonce);
@@ -91,10 +89,11 @@ contract VerifySignature {
         return recoverSigner(ethSignedMessageHash, signature) == _signer;
     }
 
-    function recoverSigner(
-        bytes32 _ethSignedMessageHash,
-        bytes memory _signature
-    ) public pure returns (address) {
+    function recoverSigner(bytes32 _ethSignedMessageHash, bytes memory _signature)
+        public
+        pure
+        returns (address)
+    {
         (bytes32 r, bytes32 s, uint8 v) = splitSignature(_signature);
 
         return ecrecover(_ethSignedMessageHash, v, r, s);
