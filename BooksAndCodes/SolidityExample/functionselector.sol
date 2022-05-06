@@ -29,5 +29,7 @@ Perhaps you can save a tiny amount of gas if you precompute and inline the funct
 
 Here is how the function selector is computed.
 
+ HAVE LOOK FOR CALLDATA IN REMIX
+https://medium.com/remix-ide/low-level-interactions-on-remix-ide-5f79b05ac86
 
  */
