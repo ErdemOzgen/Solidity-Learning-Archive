@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.3;
+pragma solidity ^0.8.13;
 
 library SafeMath {
-    function add(uint256 x, uint256 y) internal pure returns (uint256) {
-        uint256 z = x + y;
+    function add(uint x, uint y) internal pure returns (uint) {
+        uint z = x + y;
         require(z >= x, "uint overflow");
 
         return z;
@@ -11,10 +11,10 @@ library SafeMath {
 }
 
 library Math {
-    function sqrt(uint256 y) internal pure returns (uint256 z) {
+    function sqrt(uint y) internal pure returns (uint z) {
         if (y > 3) {
             z = y;
-            uint256 x = y / 2 + 1;
+            uint x = y / 2 + 1;
             while (x < z) {
                 z = x;
                 x = (y / x + x) / 2;
@@ -27,15 +27,15 @@ library Math {
 }
 
 contract TestSafeMath {
-    using SafeMath for uint256;
+    using SafeMath for uint;
 
-    uint256 public MAX_UINT = 2**256 - 1;
+    uint public MAX_UINT = 2**256 - 1;
 
-    function testAdd(uint256 x, uint256 y) public pure returns (uint256) {
+    function testAdd(uint x, uint y) public pure returns (uint) {
         return x.add(y);
     }
 
-    function testSquareRoot(uint256 x) public pure returns (uint256) {
+    function testSquareRoot(uint x) public pure returns (uint) {
         return Math.sqrt(x);
     }
 }
@@ -43,7 +43,7 @@ contract TestSafeMath {
 // Array function to delete element at index and re-organize the array
 // so that their are no gaps between the elements.
 library Array {
-    function remove(uint256[] storage arr, uint256 index) public {
+    function remove(uint[] storage arr, uint index) public {
         // Move the last element into the place to delete
         require(arr.length > 0, "Can't remove from empty array");
         arr[index] = arr[arr.length - 1];
@@ -52,12 +52,12 @@ library Array {
 }
 
 contract TestArray {
-    using Array for uint256[];
+    using Array for uint[];
 
-    uint256[] public arr;
+    uint[] public arr;
 
     function testArrayRemove() public {
-        for (uint256 i = 0; i < 3; i++) {
+        for (uint i = 0; i < 3; i++) {
             arr.push(i);
         }
 
