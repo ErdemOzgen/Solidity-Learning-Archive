@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.3;
-
+//https://blog.finxter.com/what-is-payable-in-solidity/
+//https://www.youtube.com/watch?v=A4VMhRIWSs0&t=3s
 contract Payable {
     // Payable address can receive Ether
     address payable public owner;
@@ -31,6 +32,7 @@ contract Payable {
     }
 
     // Function to transfer Ether from this contract to address from input
+    //"0xaddress", "100000000000000000000" use in remix
     function transfer(address payable _to, uint256 _amount) public {
         // Note that "to" is declared as payable
         (bool success, ) = _to.call{value: _amount}("");
