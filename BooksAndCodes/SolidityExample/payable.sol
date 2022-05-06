@@ -27,7 +27,8 @@ contract Payable {
 
         // send all Ether to owner
         // Owner can receive Ether since the address of owner is payable
-        (bool success, ) = owner.call{value: amount}("");
+        (bool success, ) = owner.call{value: amount}(""); 
+        //https://kushgoyal.com/ethereum-solidity-how-use-call-delegatecall/#:~:text=Solidity%20has%20the%20call%20function,to%20transfer%20ether%20to%20addresses.
         require(success, "Failed to send Ether");
     }
 
