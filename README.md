@@ -33,7 +33,7 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 * Notes About Book
   
 ## Solidity by Example
-* [Source Code](./Books/SolidityExample)
+* [Source Code](./BooksAndCodes/SolidityExample)
 * Notes About Book
 * [Original link](https://solidity-by-example.org/)
 
