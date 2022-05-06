@@ -45,7 +45,7 @@
 * [Hashing](hashing.sol)
 * [Verify Signature](verifySignature.sol)
 * [Gas Optimization](gasOptimize.sol)
-* []()
+* [Ether Wallet](ethwallet.sol)
 * []()
 * []()
 * []()
