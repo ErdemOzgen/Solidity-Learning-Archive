@@ -75,3 +75,11 @@ require(saleStarted == true, "The sale is paused");
 ```Solidity
 require(msg.sender != address(0x0), "Public address is not correct");
 ```
+(3) In Pepsi Drop, each address can only mint one NFT. alreadyMinted is a state variable in mapping type, like a dictionary, that keeps track of all addresses that minted the NFT.
+```Solidity
+require(alreadyMinted[msg.sender] == false, "Address already used");
+```
+(4) There is a limited supply, up to 1983 NFTs. This checks if all NFTs have been claimed. micDropsId is the unique token id we discussed above.
+```Solidity
+require(micDropsId <= maxMint, "Mint limit reached");
+```
