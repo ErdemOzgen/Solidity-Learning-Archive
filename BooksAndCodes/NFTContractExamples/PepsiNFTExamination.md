@@ -83,3 +83,15 @@ require(alreadyMinted[msg.sender] == false, "Address already used");
 ```Solidity
 require(micDropsId <= maxMint, "Mint limit reached");
 ```
+
+#### Part 3 — The actual mint. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L85)
+
+This is where mint actually happens. The good news is we do not need to implement it because ERC-721 already did this.
+
+```Solidity
+_safeMint(msg.sender, micDropsId++);
+```
+To mint, we call the function _safemint() with the user’s wallet address and the unique token id, and that’s it. Under the hood, there is a state variable (like a dictionary) that keeps track of the ownership of each token. By calling _safemint() function, we update this state variable, assign or change the ownership of the corresponding token.
+
+One note here, the state variable micDropId represents token id, and it increments by 1 right after each mint.
+
