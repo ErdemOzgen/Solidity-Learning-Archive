@@ -95,3 +95,11 @@ To mint, we call the function _safemint() with the user’s wallet address and t
 
 One note here, the state variable micDropId represents token id, and it increments by 1 right after each mint.
 
+#### Part 4 — Update Minted Address [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L87)
+
+This line ensures whoever successfully minted an NFT gets recorded.
+
+#### Part 5 — Return [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L89)
+
+After minting, the token id is returned to the frontend.
+
