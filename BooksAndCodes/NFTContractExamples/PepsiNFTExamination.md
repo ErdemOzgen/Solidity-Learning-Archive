@@ -119,3 +119,5 @@ You can change how to combine baseURI and tokenId, by overriding the function to
 
 You might wonder, what are public and onlyOwner. These are function modifiers, which define the condition for a function to run. public means ‘inside and outside of the contract’, access to all. After the deployment, we interact with the contract through the website (more specifically, JavaScript), this is what public means. onlyOwner means only the contract owner can call this function. Of course, we only want the contract owner to have the capability to change the token URI.
 
+
+### THIS EXAMINATION HEAVLY DEPENDING ON THIS MEDIUM [ARTICLE](https://betterprogramming.pub/nft-beginner-tutorial-pepsi-nft-smart-contract-explained-962721b7361a) 
