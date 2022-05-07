@@ -1,4 +1,4 @@
 # Example NFT Contracts For Examination
 
-* [Pepsi Source Code](PepsiNFTExamination.sol)
-* [Pepsi Source Code Examination](PepsiNFTExamination.md)
+* [Pepsi Source Code](pepsi/PepsiNFTExamination.sol)
+* [Pepsi Source Code Examination](pepsi/PepsiNFTExamination.md)
