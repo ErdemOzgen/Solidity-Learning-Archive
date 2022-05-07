@@ -25,7 +25,9 @@ Ethereum documentation<br>
 Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial / freeCodeCamp.org<br>
 [Youtube Link](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
 
-
+# NFT Contract Examinations
+<img src="img/smart.png" width="200"><br>
+[Examinations Link](./BooksAndCodes/NFTContractExamples/README.md)
 # Table of Contents
 
 ## Mastering Ethereum
