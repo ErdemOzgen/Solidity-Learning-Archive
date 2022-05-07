@@ -1,10 +1,10 @@
 # Pepsi NFT Contract Examination
 
-* SPDX License Identifier is the first line after comment. It indicates how other people can use this [code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L36).
+* SPDX License Identifier is the first line after comment. It indicates how other people can use this [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L36).
 
-* Solidity Version lets the compiler translate the code correctly, and then the EVM can understand. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L37)
+* Solidity Version lets the compiler translate the code correctly, and then the EVM can understand. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L37)
 
-* Import ERC-721 contracts then the Pepsi NFT contract will use the ERC-721 contract as its blueprint. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L39)
+* Import ERC-721 contracts then the Pepsi NFT contract will use the ERC-721 contract as its blueprint. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L39)
 
 * ![inheritance](inheritance.svg)
 
@@ -18,7 +18,7 @@
 
 * Functions are self-explanatory. Most functions are used to set or get state values.
 
-## (1) Constructor [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L64)
+## (1) Constructor [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L64)
 ```solidity
 constructor() ERC721("Pepsi Mic Drop", "PEPSIMICDROP") {
     reserveMicDropsId = 1; // item 1-50
@@ -31,11 +31,11 @@ The constructor takes 2 inputs:
 1. “Pepsi Mic Drop” is the NFT token name
 2. “PEPSIMICDROP” is the token symbol.
 
-The assignment happens in the ERC721 contract code, which the contract imports at [line](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L64)  It is the beauty of inheritance, and we do not need to redo it.
+The assignment happens in the ERC721 contract code, which the contract imports at [line](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L64)  It is the beauty of inheritance, and we do not need to redo it.
 <br>
 Inside the constructor, we can see 2 state variables get new values, reserveMicDropsId, and micDropsId. Why they are needed? In this NFT drop, Pepsi kept the first 50 NFTs to themselves, so the NFTs that are publicly available start from id 51.
 
-## (2) Mint [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L73)
+## (2) Mint [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L73)
 
 ```solidity
 
@@ -60,11 +60,11 @@ function mint(bytes32[] memory proof, bytes32 leaf) public returns (uint256) {
 ```
 #### Part 1 — Merkle Proof
 
-There are two inputs of the mint function, proof, and leaf. They are used for Merkle Proof from [lines](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L75). Essentially, it checks if a user is qualified to mint the NFT. There is a concept called whitelist. Sometimes you have to get into this whitelist, to be able to mint NFTs later. Please check this [article](https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9), which gives a comprehensive explanation of Merkle Proof.
+There are two inputs of the mint function, proof, and leaf. They are used for Merkle Proof from [lines](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L75). Essentially, it checks if a user is qualified to mint the NFT. There is a concept called whitelist. Sometimes you have to get into this whitelist, to be able to mint NFTs later. Please check this [article](https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9), which gives a comprehensive explanation of Merkle Proof.
 
 #### Part 2 — Prerequisites
 
-[Prerequisites](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L80) part of code.
+[Prerequisites](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L80) part of code.
 
 (1) Before the NFT started to sell, the state variable saleStarted is set to false. So it will not pass the check-in line. When the sale begins, the contract owner can call the function startSale() to change the value of saleStarted.
 ```Solidity
@@ -84,7 +84,7 @@ require(alreadyMinted[msg.sender] == false, "Address already used");
 require(micDropsId <= maxMint, "Mint limit reached");
 ```
 
-#### Part 3 — The actual mint. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L85)
+#### Part 3 — The actual mint. [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L85)
 
 This is where mint actually happens. The good news is we do not need to implement it because ERC-721 already did this.
 
@@ -95,15 +95,15 @@ To mint, we call the function _safemint() with the user’s wallet address and t
 
 One note here, the state variable micDropId represents token id, and it increments by 1 right after each mint.
 
-#### Part 4 — Update Minted Address [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L87)
+#### Part 4 — Update Minted Address [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L87)
 
 This line ensures whoever successfully minted an NFT gets recorded.
 
-#### Part 5 — Return [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L89)
+#### Part 5 — Return [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L89)
 
 After minting, the token id is returned to the frontend.
 
-#### (3) Update URI [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L69)
+#### (3) Update URI [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/6d3f0b5d275144ebb8a1e22ce466847b2bd714de/BooksAndCodes/NFTContractExamples/pepsi/PepsiNFTExamination.sol#L69)
 
 ```Solidity
 function setBaseURI(string memory _baseUri) public onlyOwner {
