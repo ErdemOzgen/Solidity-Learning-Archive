@@ -1,0 +1,51 @@
+{
+  "name": "GOPHER ERDEM #11",
+  "description": "GOPHER ERDEM NFT ARTWORK",
+  "image": "ipfs://NewUriToReplace/11.png",
+  "dna": "81d0ee505ca6b55e3b85195706ae6d6dfae96255",
+  "edition": 11,
+  "date": 1651967331837,
+  "attributes": [
+    {
+      "trait_type": "torso",
+      "value": "170"
+    },
+    {
+      "trait_type": "ears",
+      "value": "155"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "alien_fish"
+    },
+    {
+      "trait_type": "hair",
+      "value": "payot"
+    },
+    {
+      "trait_type": "hat",
+      "value": "tophat"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "shout"
+    },
+    {
+      "trait_type": "pose",
+      "value": "sign_sarcasm"
+    },
+    {
+      "trait_type": "teeth",
+      "value": "edgy"
+    },
+    {
+      "trait_type": "undernose",
+      "value": "small"
+    },
+    {
+      "trait_type": "nose",
+      "value": "apple"
+    }
+  ],
+  "compiler": "GOPHER Engine"
+}

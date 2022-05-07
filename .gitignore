@@ -8,7 +8,7 @@ __pycache__/
 /Deneme
 # Distribution / packaging
 .Python
-build/
+build/ 
 develop-eggs/
 dist/
 downloads/

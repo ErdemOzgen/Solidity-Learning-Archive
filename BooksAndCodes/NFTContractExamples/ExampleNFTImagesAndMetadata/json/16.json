@@ -1,0 +1,51 @@
+{
+  "name": "GOPHER ERDEM #16",
+  "description": "GOPHER ERDEM NFT ARTWORK",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "6ab9aeaf3e0b4d92dbc81c4097559a0211ab6ed3",
+  "edition": 16,
+  "date": 1651967332125,
+  "attributes": [
+    {
+      "trait_type": "torso",
+      "value": "170"
+    },
+    {
+      "trait_type": "ears",
+      "value": "90"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "oval_down_lashes"
+    },
+    {
+      "trait_type": "hair",
+      "value": "short"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headband_purple"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "shout"
+    },
+    {
+      "trait_type": "pose",
+      "value": "cowboy"
+    },
+    {
+      "trait_type": "teeth",
+      "value": "shy"
+    },
+    {
+      "trait_type": "undernose",
+      "value": "oval"
+    },
+    {
+      "trait_type": "nose",
+      "value": "neat_a"
+    }
+  ],
+  "compiler": "GOPHER Engine"
+}

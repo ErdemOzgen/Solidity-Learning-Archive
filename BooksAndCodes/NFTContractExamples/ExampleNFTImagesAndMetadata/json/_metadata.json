@@ -1,0 +1,2552 @@
+[
+  {
+    "name": "GOPHER ERDEM #1",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "9fe76d1651f3a8ab4afc56360dc2c58d75ef8208",
+    "edition": 1,
+    "date": 1651967331137,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "145"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "confused"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "santa"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "nunchuck"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "broken"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "oval"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #2",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "e2defa364fdf422855181493528fbadea2d16809",
+    "edition": 2,
+    "date": 1651967331197,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "sceptical"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thumbs_up2"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "tiny"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #3",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "75bbdc532a89886f144e720cebf5df064316b795",
+    "edition": 3,
+    "date": 1651967331261,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "180"
+      },
+      {
+        "trait_type": "ears",
+        "value": "155"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "happy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "student"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "snowball"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "vampire"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #4",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "59054ed1b50673979935b062b632909951870e01",
+    "edition": 4,
+    "date": 1651967331361,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "75"
+      },
+      {
+        "trait_type": "ears",
+        "value": "115"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "goofy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "ushanka"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_laugh"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "shy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #5",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "e80a3c2ce33a72e52bef4c400b5050f092784813",
+    "edition": 5,
+    "date": 1651967331445,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "155"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "sceptical"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "puffball"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_thumbsup"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "vampire"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #6",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "3e6a494c29ac7a259c5bf40e56bb1814b5a0e561",
+    "edition": 6,
+    "date": 1651967331514,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "105"
+      },
+      {
+        "trait_type": "ears",
+        "value": "150"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center"
+      },
+      {
+        "trait_type": "hair",
+        "value": "payot"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_laugh"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #7",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "d960b56baeb2ceb04394c2eea6b90e6871c29240",
+    "edition": 7,
+    "date": 1651967331570,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "180"
+      },
+      {
+        "trait_type": "ears",
+        "value": "150"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "wink"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_linux"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "shy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #8",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "20db110762fc7300dfb638abcfe2775c66b1c79f",
+    "edition": 8,
+    "date": 1651967331648,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "115"
+      },
+      {
+        "trait_type": "ears",
+        "value": "85"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "tophat"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_happy"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "small"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #9",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "038ebffcac318e4274de0f594f9e5922135f3344",
+    "edition": 9,
+    "date": 1651967331719,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "100"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_go"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #10",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "aae87955c7350d5cc09b6b43c1e8652256ec20c1",
+    "edition": 10,
+    "date": 1651967331778,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sherlock"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "timid.camera"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "oval"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #11",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "81d0ee505ca6b55e3b85195706ae6d6dfae96255",
+    "edition": 11,
+    "date": 1651967331837,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "155"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_fish"
+      },
+      {
+        "trait_type": "hair",
+        "value": "payot"
+      },
+      {
+        "trait_type": "hat",
+        "value": "tophat"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_sarcasm"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #12",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "59301fc35dfd1357b2bf38fc0686d7daa94de7e5",
+    "edition": 12,
+    "date": 1651967331899,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "killed"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "puffball"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thumbs_up2"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #13",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "0f076d57bf325132d0b7ebc96877975216909df4",
+    "edition": 13,
+    "date": 1651967331961,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "80"
+      },
+      {
+        "trait_type": "ears",
+        "value": "150"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "confused"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "puffball"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides2"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "small"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #14",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "4eacc2f3b51520af8e9c981bfcf76d9557c2409c",
+    "edition": 14,
+    "date": 1651967332021,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "killed"
+      },
+      {
+        "trait_type": "hair",
+        "value": "payot"
+      },
+      {
+        "trait_type": "hat",
+        "value": "googler"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding.mic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #15",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "a1a77d2a3753d1ae9543d53b5a77eb1d01fffb0f",
+    "edition": 15,
+    "date": 1651967332076,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "195"
+      },
+      {
+        "trait_type": "ears",
+        "value": "90"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_crazy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding.wrench"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "funky"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #16",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "6ab9aeaf3e0b4d92dbc81c4097559a0211ab6ed3",
+    "edition": 16,
+    "date": 1651967332125,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "90"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_down_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "cowboy"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "shy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_a"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #17",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "2445887a40031ead68c0c497ba01788ac954e047",
+    "edition": 17,
+    "date": 1651967332171,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "90"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "monoteeth"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #18",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "d32c5d0b3b4c36223572ff71e7449ede60d90ca0",
+    "edition": 18,
+    "date": 1651967332231,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "180"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_center"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "student"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #19",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "3b2e9f40a6d229b29fd04ee5602839fca9ef77f8",
+    "edition": 19,
+    "date": 1651967332285,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "150"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different_mirrored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "monoteeth"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #20",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "89b311546da36635bd6dfc090cb8d8b736ef2bc7",
+    "edition": 20,
+    "date": 1651967332347,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "155"
+      },
+      {
+        "trait_type": "ears",
+        "value": "115"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_crazy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #21",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "45824ebcfea29be5b6e24ea7af66eb9888d16df1",
+    "edition": 21,
+    "date": 1651967332397,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "90"
+      },
+      {
+        "trait_type": "ears",
+        "value": "40"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_crazy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_a"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #22",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "dbae60e777322ea7b9aa1b2ca78a039b02859761",
+    "edition": 22,
+    "date": 1651967332448,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "110"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lol"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking.magnifier"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "tiny"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #23",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "f874e5405a0a554d779288890cf71910b1403044",
+    "edition": 23,
+    "date": 1651967332499,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "normal_up"
+      },
+      {
+        "trait_type": "hair",
+        "value": "payot"
+      },
+      {
+        "trait_type": "hat",
+        "value": "miner"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking.medic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #24",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "2e5229ee2d4238220cbc576f25814e5a718735c6",
+    "edition": 24,
+    "date": 1651967332554,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "75"
+      },
+      {
+        "trait_type": "ears",
+        "value": "90"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_go"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #25",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "962b163f61d03a0a0b68fefa015fd3f1f6f39bfe",
+    "edition": 25,
+    "date": 1651967332608,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "195"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_curious"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "tophat"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "lightning_magic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #26",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "feb6215c26956c7b03bbc32233681a02a0316dca",
+    "edition": 26,
+    "date": 1651967332672,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "180"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "confused"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "googler"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #27",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "e206eaf1c38dd96ebaea1e0ae47bfb6b9c175813",
+    "edition": 27,
+    "date": 1651967332725,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "195"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "happy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "funky"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #28",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "88c8c0fab8ae14b2ab3f2c2a382911fc6e94949b",
+    "edition": 28,
+    "date": 1651967332779,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "150"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "small_center_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lol"
+      },
+      {
+        "trait_type": "pose",
+        "value": "cowboy"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #29",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "ac507ae7b95c95339f25c5b6f779889eb2aa0f8d",
+    "edition": 29,
+    "date": 1651967332831,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "195"
+      },
+      {
+        "trait_type": "ears",
+        "value": "90"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_down_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "miner"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #30",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "0147e1c283fc8881d7bb8e250c1132cef3c6eb27",
+    "edition": 30,
+    "date": 1651967332879,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "75"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different_mirrored_eyebrow"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "shout"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "funky"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "oval"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #31",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "58ae0bc9e1af0b7a1fdd5fbbaece434d37012e25",
+    "edition": 31,
+    "date": 1651967332938,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "125"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "goofy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "ushanka"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lol"
+      },
+      {
+        "trait_type": "pose",
+        "value": "dunno"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "monoteeth"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #32",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "4447e09e504cf420dea87f0eaf7e5546447841d0",
+    "edition": 32,
+    "date": 1651967333000,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "100"
+      },
+      {
+        "trait_type": "ears",
+        "value": "100"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "normal_up"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "ushanka"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding.white_rose"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "small"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #33",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "3eb0ab619923118a5c4f487e8dd35bb42900b874",
+    "edition": 33,
+    "date": 1651967333054,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "80"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "sceptical"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "dance"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "monoteeth"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #34",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "bd943fd5c24509dea97cbe7605bf9267764d8ae5",
+    "edition": 34,
+    "date": 1651967333100,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "40"
+      },
+      {
+        "trait_type": "ears",
+        "value": "155"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "killed"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_yellow"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "shy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "oval"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #35",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "a8599578a492f503ab6455e9f61beae1ec201947",
+    "edition": 35,
+    "date": 1651967333157,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "wink"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "ushanka"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides3"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #36",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "5861d12c1289aa765a91b8269ded2abdd1c5206d",
+    "edition": 36,
+    "date": 1651967333204,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "80"
+      },
+      {
+        "trait_type": "ears",
+        "value": "90"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "angry"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking.medic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #37",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "d5b8c3ed9a212d10b0df2cc63f59cd32151b0140",
+    "edition": 37,
+    "date": 1651967333254,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "155"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "angry_one"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "thinking.medic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "oval"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #38",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "a66685a778826492be3272e258cd1b2b2f71c80c",
+    "edition": 38,
+    "date": 1651967333318,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "115"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "happy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "lol"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_2"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "funky"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #39",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "24b28e59bf634ae36f26150328a37c8fbb727098",
+    "edition": 39,
+    "date": 1651967333375,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "195"
+      },
+      {
+        "trait_type": "ears",
+        "value": "145"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_fish"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides2"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "vampire"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "small"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #40",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "99f900765feb2f973097233042071aa627c5ed3f",
+    "edition": 40,
+    "date": 1651967333431,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "100"
+      },
+      {
+        "trait_type": "ears",
+        "value": "155"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "alien_center"
+      },
+      {
+        "trait_type": "hair",
+        "value": "tennis"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides4"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #41",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "0c21acb635cead1fd05b63898d208274bf0bc7a2",
+    "edition": 41,
+    "date": 1651967333485,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "115"
+      },
+      {
+        "trait_type": "ears",
+        "value": "95 (copy 2)"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "angry"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "tophat"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "surprised"
+      },
+      {
+        "trait_type": "pose",
+        "value": "timid.money"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "broken"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "tiny"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #42",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "7ff9c6fc468104e79b91b3eadccbf85c15784d43",
+    "edition": 42,
+    "date": 1651967333546,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "100"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "small_center_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sherlock"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "water_magic"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fragile"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_a"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #43",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "d875a6f5c8b9489c9bec1a986fb9a9caa9a650de",
+    "edition": 43,
+    "date": 1651967333605,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "75"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different"
+      },
+      {
+        "trait_type": "hair",
+        "value": "long"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_thumbsup"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "funky"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "small"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_a"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #44",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "a3d5446e50c8b140648f103c39049c618de8f895",
+    "edition": 44,
+    "date": 1651967333671,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "105"
+      },
+      {
+        "trait_type": "ears",
+        "value": "115"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "confused"
+      },
+      {
+        "trait_type": "hair",
+        "value": "payot"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sherlock"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_1"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "soft"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "flat"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #45",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "ae0ce830c590c0d3e90c22088ff316616fd606e8",
+    "edition": 45,
+    "date": 1651967333736,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "170"
+      },
+      {
+        "trait_type": "ears",
+        "value": "75"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "different_mirrored_eyebrow"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "tophat"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_1"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "neat_b"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #46",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "0af0bc55b553f6755acb4cc47b916554fab51a2b",
+    "edition": 46,
+    "date": 1651967333794,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "150"
+      },
+      {
+        "trait_type": "ears",
+        "value": "150"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "goofy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "ushanka"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "oval"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #47",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "41ea5b5a8d94bea8e87f42ccd9675ef3686278a9",
+    "edition": 47,
+    "date": 1651967333848,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "95"
+      },
+      {
+        "trait_type": "ears",
+        "value": "170"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "goofy"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers"
+      },
+      {
+        "trait_type": "hat",
+        "value": "sailor"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides4"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "rome"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #48",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "3467436b7fc715680e7900a6549aafee14d7445e",
+    "edition": 48,
+    "date": 1651967333896,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "90"
+      },
+      {
+        "trait_type": "ears",
+        "value": "125"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "oval_center_lashes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "short"
+      },
+      {
+        "trait_type": "hat",
+        "value": "bow_yellow"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grin"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sides4"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "edgy"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "round"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #49",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "1c24d50d9f51f5bdcde28c970513ed0f256f4463",
+    "edition": 49,
+    "date": 1651967333956,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "75"
+      },
+      {
+        "trait_type": "ears",
+        "value": "195"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rofl"
+      },
+      {
+        "trait_type": "hair",
+        "value": "dark_edgy"
+      },
+      {
+        "trait_type": "hat",
+        "value": "student"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "annoyed"
+      },
+      {
+        "trait_type": "pose",
+        "value": "sign_persik_laugh"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "fangs"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "gourmet"
+      },
+      {
+        "trait_type": "nose",
+        "value": "apple"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  },
+  {
+    "name": "GOPHER ERDEM #50",
+    "description": "GOPHER ERDEM NFT ARTWORK",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "c27b52ae64038c437c0388da59174b85c74ed2b7",
+    "edition": 50,
+    "date": 1651967334009,
+    "attributes": [
+      {
+        "trait_type": "torso",
+        "value": "155"
+      },
+      {
+        "trait_type": "ears",
+        "value": "180"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "wink"
+      },
+      {
+        "trait_type": "hair",
+        "value": "whiskers2"
+      },
+      {
+        "trait_type": "hat",
+        "value": "headband_purple"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "pose",
+        "value": "right_holding.white_rose"
+      },
+      {
+        "trait_type": "teeth",
+        "value": "classical"
+      },
+      {
+        "trait_type": "undernose",
+        "value": "normal"
+      },
+      {
+        "trait_type": "nose",
+        "value": "tiny"
+      }
+    ],
+    "compiler": "GOPHER Engine"
+  }
+]
