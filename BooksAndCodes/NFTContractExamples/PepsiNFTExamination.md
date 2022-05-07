@@ -18,7 +18,7 @@
 
 * Functions are self-explanatory. Most functions are used to set or get state values.
 
-* (1) Constructor [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L64)
+## (1) Constructor [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L64)
 ```solidity
 constructor() ERC721("Pepsi Mic Drop", "PEPSIMICDROP") {
     reserveMicDropsId = 1; // item 1-50
@@ -31,3 +31,37 @@ The constructor takes 2 inputs:
 1. “Pepsi Mic Drop” is the NFT token name
 2. “PEPSIMICDROP” is the token symbol.
 
+The assignment happens in the ERC721 contract code, which the contract imports at [line](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L64)  It is the beauty of inheritance, and we do not need to redo it.
+<br>
+Inside the constructor, we can see 2 state variables get new values, reserveMicDropsId, and micDropsId. Why they are needed? In this NFT drop, Pepsi kept the first 50 NFTs to themselves, so the NFTs that are publicly available start from id 51.
+
+## (2) Mint [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L73)
+
+```solidity
+
+function mint(bytes32[] memory proof, bytes32 leaf) public returns (uint256) {
+    // merkle tree
+    if (merkleEnabled) {
+        require(keccak256(abi.encodePacked(msg.sender)) == leaf, "This leaf does not belong to the sender");
+        require(proof.verify(merkleRoot, leaf), "You are not in the list");
+    }
+
+    require(saleStarted == true, "The sale is paused");
+    require(msg.sender != address(0x0), "Public address is not correct");
+    require(alreadyMinted[msg.sender] == false, "Address already used");
+    require(micDropsId <= maxMint, "Mint limit reached");
+
+    _safeMint(msg.sender, micDropsId++);
+
+    alreadyMinted[msg.sender] = true;
+
+    return micDropsId;
+}
+```
+#### Part 1 — Merkle Proof
+
+There are two inputs of the mint function, proof, and leaf. They are used for Merkle Proof from [lines](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L75). Essentially, it checks if a user is qualified to mint the NFT. There is a concept called whitelist. Sometimes you have to get into this whitelist, to be able to mint NFTs later. Please check this [article](https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9), which gives a comprehensive explanation of Merkle Proof.
+
+#### Part 2 — Prerequisites
+
+[Prerequisites](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L80) part of code.
