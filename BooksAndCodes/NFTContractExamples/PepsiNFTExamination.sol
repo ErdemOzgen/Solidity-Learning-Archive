@@ -33,10 +33,10 @@ These Terms will be governed by and construed in accordance with the laws of the
                   |___/                        |___/
 ***/
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.3;
+// SPDX-License-Identifier: MIT ==> is the first line after comment. It indicates how other people can use this code.
+pragma solidity ^0.8.3; //==> lets the compiler translate the code correctly, and then the EVM can understand
 
-import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol"; //==> Import ERC-721 contracts then the Pepsi NFT contract will use the ERC-721 contract as its blueprint.
 import "@openzeppelin/contracts/access/Ownable.sol";
 import {MerkleProof} from "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
