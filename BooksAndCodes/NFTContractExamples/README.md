@@ -2,6 +2,8 @@
 
 * [Pepsi Source Code](pepsi/PepsiNFTExamination.sol)
 * [Pepsi Source Code Examination](pepsi/PepsiNFTExamination.md)
+* [Hashlips Source Code](hashlips/SimpleNFTLowerGas.sol)
+* [Hashlips Source Code Examination](hashlips/hashlips.md)
 
 
 
