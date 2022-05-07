@@ -103,3 +103,19 @@ This line ensures whoever successfully minted an NFT gets recorded.
 
 After minting, the token id is returned to the frontend.
 
+#### (3) Update URI [Code](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L69)
+
+```Solidity
+function setBaseURI(string memory _baseUri) public onlyOwner {
+    baseURI = _baseUri;
+}
+```
+
+As you already know, each NFT has its URI. And this is the function used to change the base URI.
+
+The base URI is the mutual part among each NFT’s URI. By default, the URI is baseURI/tokenId. The reason why we set baseURI is that it saves gas fees. Imagine if you set URI for each NFT that is extremely expensive.
+
+You can change how to combine baseURI and tokenId, by overriding the function tokenURI defined in the ERC-721 contract. For example, you can do something like baseURI/tokenId + ‘.json’ if that is how the URI is formatted.
+
+You might wonder, what are public and onlyOwner. These are function modifiers, which define the condition for a function to run. public means ‘inside and outside of the contract’, access to all. After the deployment, we interact with the contract through the website (more specifically, JavaScript), this is what public means. onlyOwner means only the contract owner can call this function. Of course, we only want the contract owner to have the capability to change the token URI.
+
