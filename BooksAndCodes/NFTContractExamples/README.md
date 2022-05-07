@@ -6,4 +6,4 @@
 
 
 ## Example NFTs
-* You can test all contract with these [images](ExampleNFTImagesAndMetadata/images/) and [metadata](ExampleNFTImagesAndMetadata/metadata) of these images
+* You can test all contract with these [images](ExampleNFTImagesAndMetadata/images/) and [metadata](ExampleNFTImagesAndMetadata/metadata) of these images (All layers taken from [here](https://github.com/quasilyte/gopherkon))
