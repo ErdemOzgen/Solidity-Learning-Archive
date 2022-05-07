@@ -65,3 +65,13 @@ There are two inputs of the mint function, proof, and leaf. They are used for Me
 #### Part 2 — Prerequisites
 
 [Prerequisites](https://github.com/ErdemOzgen/Solidity-Learning-Archive/blob/03ebac2dd7d04cc1d87e78aae1869b0eb60d3209/BooksAndCodes/NFTContractExamples/PepsiNFTExamination.sol#L80) part of code.
+
+(1) Before the NFT started to sell, the state variable saleStarted is set to false. So it will not pass the check-in line. When the sale begins, the contract owner can call the function startSale() to change the value of saleStarted.
+```Solidity
+require(saleStarted == true, "The sale is paused");
+```
+
+(2) This check makes sure the user address is not 0x0. 0x0 is the Ethereum genesis address, and no user will use it. [Look for genesis address check](https://www.finder.com.au/why-the-ethereum-genesis-address-holds-over-500m-worth-of-tokens#:~:text=Burning%20tokens%20by%20sending%20them,their%20tokens%20to%20the%20address.)
+```Solidity
+require(msg.sender != address(0x0), "Public address is not correct");
+```
