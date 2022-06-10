@@ -26,7 +26,7 @@ Unlike Bitcoin, which has a very limited scripting language, Ethereum is designe
 
 ((("blockchain","components of")))((("Ethereum (generally)","blockchain components")))The components of an open, public blockchain are (usually):
 
-* A peer-to-peer (P2P) network connecting participants and propagating transactions and blocks of verified transactions, based on a standardized "gossip" pass:[<span class="keep-together">protocol</span>]
+* A peer-to-peer (P2P) network connecting participants and propagating transactions and blocks of verified transactions, based on a standardized "link:https://en.wikipedia.org/wiki/Gossip_protocol#:~:text=A%20gossip%20protocol%20or%20epidemic,all%20members%20of%20a%20group.[gossip]" pass:[<span class="keep-together">protocol</span>]
 * Messages, in the form of transactions, representing state transitions
 * A set of consensus rules, governing what constitutes a transaction and what makes for a valid state transition
 * A state machine that processes transactions according to the consensus rules
