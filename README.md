@@ -9,7 +9,7 @@ Notes about Ethereum, Smart contracts and DApps
 </div>
 
 ###  I would highly recommend this book for new commers.
-[Mastering ETH Source Code](./Books/MasETH/README.md)
+[Mastering ETH Source Code](./BooksAndCodes/MasETH/README.md)
 
 # Docs
 <img src="img/eth.png" width="200"><br>
@@ -40,11 +40,11 @@ Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tu
 * [Original link](https://solidity-by-example.org/)
 
 ## Solidity Archive
-* [Source Code](https://github.com/ErdemOzgen/)
+* [Source Code](./BooksAndCodes/SolArch)
 * Notes About Book
 
 ## Solidity Security
-* [Source Code](https://github.com/ErdemOzgen/)
+* [Source Code](./BooksAndCodes/SolSecurity)
 * Notes About Book
 
 ## Solidity Optimization
