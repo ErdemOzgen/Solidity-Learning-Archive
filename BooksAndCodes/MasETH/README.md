@@ -5,7 +5,7 @@
 Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
 
 ## Chapters
-+ Preface: '[Preface](./01what-is.asciidoc)'
++ Preface: '[Preface](./preface.asciidoc)'
 + Chapter 1: '[What Is Ethereum](./01what-is.asciidoc)'
 + Chapter 2: '[Ethereum Basics](./02intro.asciidoc)'
 + Chapter 3: '[Ethereum Clients](./03clients.asciidoc)'
