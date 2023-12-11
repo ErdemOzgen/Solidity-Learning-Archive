@@ -26,3 +26,7 @@
     - Isabelle/HOL Proofs https://github.com/pirapira/eth-isabelle Isabelle2007, Lem Ocaml, Opam - packages
     - KEVM framework https://github.com/kframework/evm-semantics/ Pandoc, Java 8 JDK, Opam - packages
 * [Comparison of some security tools](./tool_comparison.md)
+
+### Some repositories 
+- https://github.com/kadenzipfel/smart-contract-vulnerabilities
+- https://github.com/crytic/not-so-smart-contracts
